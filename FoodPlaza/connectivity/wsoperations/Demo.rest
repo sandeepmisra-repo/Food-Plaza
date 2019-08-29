@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RestWebServiceOperation version="1.0">
+    <Name>Demo</Name>
+    <ServerUrl>http://</ServerUrl>
+    <EndpointVariable/>
+    <HttpMethod>GET</HttpMethod>
+    <UseQuery>true</UseQuery>
+    <OutputFormat>Server Default</OutputFormat>
+    <UseJavaObject>true</UseJavaObject>
+    <UseBody>false</UseBody>
+    <Operation>
+        <Name>Demo_OP</Name>
+        <Inparams/>
+        <Outprarms/>
+        <Headers/>
+    </Operation>
+    <WebConfigParameterNames>
+        <TimeoutSeconds>Demo_1560854523742TimeoutSeconds</TimeoutSeconds>
+        <EndpointUrl>Demo_1560854523742EndpointUrl</EndpointUrl>
+        <Authentication>Demo_1560854523742Authentication</Authentication>
+        <Password>Demo_1560854523742Password</Password>
+        <Username>Demo_1560854523742Username</Username>
+        <Preemptive>Demo_1560854523742Preemptive</Preemptive>
+        <Security>Demo_1560854523742Security</Security>
+        <Port>Demo_1560854523742Port</Port>
+    </WebConfigParameterNames>
+    <MessageBody/>
+    <Keystore/>
+    <KeystorePassword/>
+</RestWebServiceOperation>

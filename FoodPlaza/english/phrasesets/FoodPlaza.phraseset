@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="FoodPlaza" version="1.0">
+    <phrase version="1.0">
+        <displayname>Say</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SayLocality.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Thank</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ThankU.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>NewSay</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NewSay.wav</audiofile>
+    </phrase>
+</phraseset>
